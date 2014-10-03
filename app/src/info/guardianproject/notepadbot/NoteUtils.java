@@ -7,13 +7,13 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
-
 import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Environment;
 import android.util.Log;
 import android.widget.Toast;
+import any.note.cipher.R;
 
 public class NoteUtils {
 	 /*

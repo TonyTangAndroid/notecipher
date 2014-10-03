@@ -6,6 +6,7 @@ import android.graphics.Paint;
 import android.graphics.Rect;
 import android.util.AttributeSet;
 import android.widget.EditText;
+import any.note.cipher.R;
 
 /**
  * A custom EditText that draws lines between each line of text that is displayed.
